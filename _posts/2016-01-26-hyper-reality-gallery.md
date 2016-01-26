@@ -3,23 +3,23 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T21:58:58.789Z'
-dateModified: '2016-01-26T21:58:15.737Z'
+datePublished: '2016-01-26T22:02:28.435Z'
+dateModified: '2016-01-26T22:02:24.085Z'
 title: Hyper Reality Gallery
 author: []
+sourcePath: _posts/2016-01-26-hyper-reality-gallery.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-hyper-reality-gallery.md
-published: true
 url: hyper-reality-gallery/index.html
 _type: Article
 
 ---
-Hyper Reality Gallery
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b803ebda-79f9-4a42-91e2-6709013fa96f.jpg)
