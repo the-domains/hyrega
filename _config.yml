@@ -1,7 +1,7 @@
 name: hyrega
 favicon: null
-layout_spectrum: 0.21426318888552487
-typography_spectrum: 0.004372980212792754
+layout_spectrum: 1
+typography_spectrum: 0.63801
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#004607'
+    - '#c3c1cf'
+    - '#b0205b'
+    - '#b16886'
+    - '#a29295'
   brandStrength: 0.8033703002147377
   lightness: 0.7982206107117236
   saturation: 0.05736588151194155
